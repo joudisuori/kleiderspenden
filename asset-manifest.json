@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kleiderspenden-portal/static/css/main.5784f0fb.css",
-    "main.js": "/kleiderspenden-portal/static/js/main.03fab39a.js",
-    "static/js/453.7efef423.chunk.js": "/kleiderspenden-portal/static/js/453.7efef423.chunk.js",
-    "static/media/logo.png": "/kleiderspenden-portal/static/media/logo.42b0d22fb918c7919908.png",
-    "index.html": "/kleiderspenden-portal/index.html",
-    "main.5784f0fb.css.map": "/kleiderspenden-portal/static/css/main.5784f0fb.css.map",
-    "main.03fab39a.js.map": "/kleiderspenden-portal/static/js/main.03fab39a.js.map",
-    "453.7efef423.chunk.js.map": "/kleiderspenden-portal/static/js/453.7efef423.chunk.js.map"
+    "main.css": "/kleiderspenden/static/css/main.5784f0fb.css",
+    "main.js": "/kleiderspenden/static/js/main.22457438.js",
+    "static/js/453.7efef423.chunk.js": "/kleiderspenden/static/js/453.7efef423.chunk.js",
+    "static/media/logo.png": "/kleiderspenden/static/media/logo.42b0d22fb918c7919908.png",
+    "index.html": "/kleiderspenden/index.html",
+    "main.5784f0fb.css.map": "/kleiderspenden/static/css/main.5784f0fb.css.map",
+    "main.22457438.js.map": "/kleiderspenden/static/js/main.22457438.js.map",
+    "453.7efef423.chunk.js.map": "/kleiderspenden/static/js/453.7efef423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5784f0fb.css",
-    "static/js/main.03fab39a.js"
+    "static/js/main.22457438.js"
   ]
 }
