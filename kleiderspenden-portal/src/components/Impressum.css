@@ -1,0 +1,38 @@
+.impressum {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .impressum h1 {
+    font-size: 2.2em;
+    color: #1a73e8;
+    margin-bottom: 15px;
+  }
+  
+  .impressum address {
+    font-style: normal;
+  }
+  
+  .impressum p {
+    margin: 10px 0;
+    line-height: 1.6;
+  }
+  
+  .impressum a {
+    color: #1a73e8;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .impressum a:hover {
+    color: #34a853;
+    text-decoration: underline;
+  }
+

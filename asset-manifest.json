@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kleiderspenden-portal/static/css/main.d4439efb.css",
+    "main.js": "/kleiderspenden-portal/static/js/main.03fab39a.js",
+    "static/js/453.7efef423.chunk.js": "/kleiderspenden-portal/static/js/453.7efef423.chunk.js",
+    "static/media/logo.png": "/kleiderspenden-portal/static/media/logo.42b0d22fb918c7919908.png",
+    "index.html": "/kleiderspenden-portal/index.html",
+    "main.d4439efb.css.map": "/kleiderspenden-portal/static/css/main.d4439efb.css.map",
+    "main.03fab39a.js.map": "/kleiderspenden-portal/static/js/main.03fab39a.js.map",
+    "453.7efef423.chunk.js.map": "/kleiderspenden-portal/static/js/453.7efef423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4439efb.css",
+    "static/js/main.03fab39a.js"
+  ]
+}
